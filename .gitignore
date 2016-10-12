@@ -4,9 +4,9 @@
 
 # Mac OS X
 
-NSTasks/*.xcuserstate
-NSTasks/NSTasks.xcodeproj/xcuserdata
-NSTasks/NSTasks.xcodeproj/project.xcworkspace
+*.xcuserstate
+NSTasks.xcodeproj/xcuserdata
+NSTasks.xcodeproj/project.xcworkspace
 
 ## Build generated
 build/
